@@ -1,0 +1,3 @@
+Python Programming
+
+Python is a popular high-level programming language. It is easy to learn and widely used in software development, data science, artificial intelligence, and machine learning. Python supports libraries such as NumPy, Pandas, TensorFlow, and Scikit-learn. It is useful for automation, data analysis, and building applications.

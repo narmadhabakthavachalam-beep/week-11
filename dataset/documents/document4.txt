@@ -1,0 +1,3 @@
+Deep Learning
+
+Deep Learning is a branch of Machine Learning that uses artificial neural networks to learn from large amounts of data. It can identify complex patterns and solve advanced problems. Deep Learning is used in speech recognition, facial recognition, self-driving cars, and medical image analysis.

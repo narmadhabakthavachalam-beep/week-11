@@ -1,0 +1,3 @@
+Data Science
+
+Data Science is a field that uses scientific methods, statistics, and programming to analyse data. It helps people discover useful information, identify patterns, and make better decisions. Data Science uses tools such as Python, Pandas, NumPy, and Matplotlib. It is widely used in business, healthcare, education, and finance.

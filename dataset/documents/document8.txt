@@ -1,0 +1,3 @@
+Computer Networks
+
+Computer Networks allow computers and devices to communicate and share information. A network connects devices using wired or wireless connections. Common types include LAN, WAN, and MAN. Computer networks are used for file sharing, internet access, communication, and resource sharing.

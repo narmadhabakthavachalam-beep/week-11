@@ -1,0 +1,51 @@
+query,rank,document_semantic,source,distance,document_keyword,keyword_score
+What is Artificial Intelligence?,1,Artificial Intelligence,document1.txt,0.30451714992523193,document9.txt,2
+What is Artificial Intelligence?,2,Artificial Intelligence,document1.txt,0.30451714992523193,document5.txt,2
+What is Artificial Intelligence?,3,Machine Learning,document2.txt,0.9379198551177979,document4.txt,2
+What is Artificial Intelligence?,4,Machine Learning,document2.txt,0.9379198551177979,document3.txt,2
+What is Artificial Intelligence?,5,Generative AI,document9.txt,1.0246398448944092,document2.txt,2
+How does Machine Learning work?,1,Machine Learning,document2.txt,0.5958982706069946,document4.txt,2
+How does Machine Learning work?,2,Machine Learning,document2.txt,0.5958982706069946,document3.txt,2
+How does Machine Learning work?,3,Deep Learning,document4.txt,1.090999722480774,document2.txt,2
+How does Machine Learning work?,4,Deep Learning,document4.txt,1.090999722480774,document5.txt,1
+How does Machine Learning work?,5,Artificial Intelligence,document1.txt,1.16709566116333,document1.txt,1
+What is Python used for?,1,Python Programming,document3.txt,0.4185106158256531,document6.txt,3
+What is Python used for?,2,Python Programming,document3.txt,0.4185106158256531,document3.txt,3
+What is Python used for?,3,Data Science,document6.txt,1.0979039669036865,document9.txt,2
+What is Python used for?,4,Data Science,document6.txt,1.0979039669036865,document7.txt,2
+What is Python used for?,5,Natural Language Processing,document5.txt,1.3357539176940918,document5.txt,2
+Explain Deep Learning.,1,Deep Learning,document4.txt,0.5348738431930542,document4.txt,1
+Explain Deep Learning.,2,Deep Learning,document4.txt,0.5348738431930542,document3.txt,1
+Explain Deep Learning.,3,Machine Learning,document2.txt,1.033198595046997,document9.txt,0
+Explain Deep Learning.,4,Machine Learning,document2.txt,1.033198595046997,document8.txt,0
+Explain Deep Learning.,5,Artificial Intelligence,document1.txt,1.1767486333847046,document7.txt,0
+What is Natural Language Processing?,1,Natural Language Processing,document5.txt,0.4916888177394867,document5.txt,3
+What is Natural Language Processing?,2,Natural Language Processing,document5.txt,0.4916888177394867,document3.txt,2
+What is Natural Language Processing?,3,Generative AI,document9.txt,1.304792881011963,document1.txt,2
+What is Natural Language Processing?,4,Generative AI,document9.txt,1.304792881011963,document9.txt,1
+What is Natural Language Processing?,5,Artificial Intelligence,document1.txt,1.3664606809616089,document7.txt,1
+What is Data Science?,1,Data Science,document6.txt,0.3613722026348114,document9.txt,2
+What is Data Science?,2,Data Science,document6.txt,0.3613722026348114,document7.txt,2
+What is Data Science?,3,Machine Learning,document2.txt,1.2200664281845093,document6.txt,2
+What is Data Science?,4,Machine Learning,document2.txt,1.2200664281845093,document4.txt,2
+What is Data Science?,5,Artificial Intelligence,document1.txt,1.2514114379882812,document3.txt,2
+Explain Cloud Computing.,1,Cloud Computing,document7.txt,0.41658538579940796,document7.txt,1
+Explain Cloud Computing.,2,Cloud Computing,document7.txt,0.41658538579940796,document9.txt,0
+Explain Cloud Computing.,3,Artificial Intelligence,document1.txt,1.357169270515442,document8.txt,0
+Explain Cloud Computing.,4,Artificial Intelligence,document1.txt,1.357169270515442,document6.txt,0
+Explain Cloud Computing.,5,Machine Learning,document2.txt,1.3693222999572754,document5.txt,0
+What are Computer Networks?,1,Computer Networks,document8.txt,0.41612619161605835,document8.txt,2
+What are Computer Networks?,2,Computer Networks,document8.txt,0.41612619161605835,document1.txt,2
+What are Computer Networks?,3,Artificial Intelligence,document1.txt,1.3137357234954834,document9.txt,1
+What are Computer Networks?,4,Artificial Intelligence,document1.txt,1.3137357234954834,document7.txt,1
+What are Computer Networks?,5,Deep Learning,document4.txt,1.3477563858032227,document6.txt,1
+What is Generative AI?,1,Generative AI,document9.txt,0.34193113446235657,document9.txt,2
+What is Generative AI?,2,Generative AI,document9.txt,0.34193113446235657,document7.txt,1
+What is Generative AI?,3,Artificial Intelligence,document1.txt,0.9100621342658997,document6.txt,1
+What is Generative AI?,4,Artificial Intelligence,document1.txt,0.9100621342658997,document5.txt,1
+What is Generative AI?,5,Machine Learning,document2.txt,1.1878386735916138,document4.txt,1
+What is Database Management?,1,Database Management,document10.txt,0.20726118981838226,document7.txt,2
+What is Database Management?,2,Database Management,document10.txt,0.20726118981838226,document10.txt,2
+What is Database Management?,3,Data Science,document6.txt,1.3027160167694092,document9.txt,1
+What is Database Management?,4,Data Science,document6.txt,1.3027160167694092,document6.txt,1
+What is Database Management?,5,Machine Learning,document2.txt,1.4167894124984741,document5.txt,1
